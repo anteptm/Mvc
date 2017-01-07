@@ -1,2 +1,0 @@
-# Mvc
-Mvc Denemesi
